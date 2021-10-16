@@ -23,10 +23,13 @@ An analysis of state-of-the-art smart home implementation will be made. The focu
 
 ## Related Work
 Know your enemy : learning about security threats ; the Honeynet Project
+
 ISBN: 9780321166463
 
 Honeypots : a new paradigm to information security
+
 ISBN: 9781578087082
+
 B. Lingenfelter, I. Vakilinia and S. Sengupta, "Analyzing Variation Among IoT Botnets Using Medium Interaction Honeypots," 2020 10th Annual Computing and Communication Workshop and Conference (CCWC), 2020, pp. 0761-0767, doi: 10.1109/CCWC47524.2020.9031234.
 
 
