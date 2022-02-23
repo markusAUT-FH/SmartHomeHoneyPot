@@ -36,10 +36,6 @@ if __name__ == "__main__":
     # DB Setup
     database_connection = db.getDatabaseConnection()
     database_cursor = database_connection.cursor()
-    database_cursor.execute("SELECT * FROM test;")
-    #rows = database_cursor.fetchall()
-    #for row in rows:
-    #    print(row)
 
     last_alarm = datetime.strptime(getLastAlarmTime(database_cursor)[0], "%Y-%m-%d %H:%M:%S")
 

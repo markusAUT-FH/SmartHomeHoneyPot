@@ -1,0 +1,4 @@
+[90m2022/02/17 15:39:32 [0m[32mINF[0m rtsp-simple-server v0.17.11
+[90m2022/02/17 15:39:33 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2022/02/17 15:39:33 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2022/02/17 15:39:33 [0m[32mINF[0m [HLS] listener opened on :8888
